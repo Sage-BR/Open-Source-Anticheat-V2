@@ -7,8 +7,8 @@ Main Authors:
 # Find any bugs? Maybe a bypass?
 Feel free to report them here on the "Issues" tab above, thanks!
 
-# Pull Request
-If you decide you want to fix a error in the code, make the code cleaner, or fix a bug or bypass, I will be accepting them as long as you contact me about it first.
+# Pull Request or Contributions
+If you decide you want to fix a error in the code, make the code cleaner, or fix a bug or bypass, I will be accepting pull request as long as you contact me about it first. All contributors will be credited
 
 You can contact me via discord: demonpvp#7922 
 
