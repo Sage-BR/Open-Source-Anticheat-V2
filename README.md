@@ -26,4 +26,6 @@ Todo:
 - Permissions
 
 # Dependencies
-This anticheat requires Atlas 1.12.1 to run. (https://github.com/funkemunky/Atlas/releases/download/1.12.1.1/Atlas.jar)
+This anticheat requires Atlas 1.12.1 or 1.12.1.1 to run and is used for handling packets.
+
+(https://github.com/funkemunky/Atlas/releases/download/1.12.1.1/Atlas.jar)
