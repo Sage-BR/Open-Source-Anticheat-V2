@@ -35,6 +35,9 @@ This anticheat requires Atlas 1.12.1 or 1.12.1.1 to run and is used for handling
 
 (https://github.com/funkemunky/Atlas/releases/download/1.12.1.1/Atlas.jar)
 
+# Credits
+If you decide to take any code from this anticheat for reselling purposes, all I ask is for proper crediting to the people that worked on it.
+
 # Note
 
 The anticheat is currently in a developmental stage, and can be buggy at times. 
