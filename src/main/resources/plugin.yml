@@ -1,0 +1,6 @@
+name: Anticheat
+version: 2.0
+main: dev.demon.Anticheat
+depend:
+  - Atlas
+author: demonpvp
