@@ -1,4 +1,4 @@
-# Open Source Anticheat V2.0
+# Open Source Anticheat v2
 Another open source anticheat but its v2 this time :smirk:
 
 Main Authors:
