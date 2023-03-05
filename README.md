@@ -34,4 +34,4 @@ This anticheat requires Atlas 1.12.1 or 1.12.1.1 to run and is used for handling
 
 The anticheat is currently in a developmental stage, and can be buggy at times. 
 
-Remember not all the code is finished and this github page for the anticheat is not 100% up to date, and may be slightly misinformative.
+Remember not all the code is finished, this github page for the anticheat may not be 100.0% correct, and may be slightly misinformative.
